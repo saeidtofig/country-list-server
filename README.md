@@ -35,7 +35,7 @@ GET http://localhost:3000/countries?offset=5&limit=3
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/country-list-api.git
+   git clone https://github.com/saeidtofig/country-list-server.git
    cd country-list-api
 
 2. Install dependencies:
